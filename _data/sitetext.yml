@@ -4,13 +4,13 @@ header:
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+Publicaciones:
+    title: "Publicaciones"
+    text: "Loren"
+    section: Publicaciones
     list:
       - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Soy el mejor"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
