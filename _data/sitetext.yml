@@ -1,7 +1,7 @@
 header:
     title: Bienvenidos!
     text: Es bueno tenerte aqui
-    button: Tell Me More
+    button: Tell me more
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 Publicaciones:
