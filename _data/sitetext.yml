@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Bienvenidos!
+    text: Es bueno tenerte aqui
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
