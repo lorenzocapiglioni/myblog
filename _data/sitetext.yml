@@ -10,7 +10,7 @@ services:
     section: services
     list:
       - title: "HRTFs"
-        desc: "Loren "
+        desc: " Medición de HRTFs "
         icon: fas fa-headphones #find more at https://fontawesome.com/icons
       - title: "Modelizacion de orejas"
         desc: "Escaneo 3D, procesamiento computarizado para Impresión 3D"
