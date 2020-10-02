@@ -13,6 +13,5 @@ Se realizo el escaneo de las orejas de diversos sujetos. Luego se realizo el pro
 
 {:.list-inline}
 - Fecha: Noviembre 2018
-<!--- Client: Threads
-- Category: Illustration -->
+
 
