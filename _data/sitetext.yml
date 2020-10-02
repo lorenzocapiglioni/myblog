@@ -86,7 +86,7 @@ team:
     section: team
     people:
       - name: "Fabian Tommasini"
-        role: "Lead Designer"
+        role: "Director del proyecto"
         image: assets/img/team/fabian_Tommasini.jpg
         social:
           - url: https://twitter.com
@@ -96,7 +96,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "R. Martin Guido"
-        role: "Lead Marketer"
+        role: "Tesista doctoral"
         image: assets/img/team/martin_guido.jpg
         social:
           - url: https://twitter.com
@@ -106,7 +106,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Fermin Scaliti"
-        role: "Lead Developer"
+        role: "Tesista de grado"
         image: assets/img/team/fermin_scalitti.jpg
         social:
           - url: https://twitter.com
@@ -116,7 +116,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: " Agustin Cravero"
-        role: "Ing"
+        role: "Investigador"
         image: assets/img/team/agustin_cravero.jpg
         social:
           - url: https://twitter.com
