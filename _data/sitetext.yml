@@ -1,19 +1,15 @@
 header:
-    title: Bienvenidos!
-    text: Es bueno tenerte aqui
-    button: Tell me more
+    title: Bienvenidos a la web del CINTRA.
+    text: Un gusto tenerte aqui.
+    button: Dime más
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-Publicaciones:
-    title: "Publicaciones"
-    text: "Loren"
-    section: Publicaciones
     list:
       - title: "E-Commerce"
-        desc: "Soy el mejor"
+        desc: "Loren ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Loren ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
@@ -32,13 +28,13 @@ timeline:
     events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Loren ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
       - title: "An Agency is Born"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "Loren ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
@@ -80,12 +76,12 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Nuestro maravilloso equipo"
+    text: "Loren ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Fabian Tommasini"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
@@ -95,7 +91,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "R. Martin Guido"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -105,7 +101,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Fermin Scaliti"
         role: "Lead Developer"
         image: assets/img/team/3.jpg
         social:
@@ -117,8 +113,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contactanos"
+    text: "Llamanos al 549351111111"
     section: contact
     
 footer:
