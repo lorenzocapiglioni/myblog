@@ -12,12 +12,12 @@ services:
       - title: "HRTFs"
         desc: "Loren "
         icon: fas fa-headphones #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Loren ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Modelizacion de orejas"
+        desc: "Escaneo 3D, procesamiento computarizado para Impresión 3D"
+        icon: fas fa-assistive-listening-systems       
+      - title: "Diseño de sistemas acústicos"
+        desc: "Construccion de un sistema de medición de HRTFs"
+        icon: fas fa-volume-up
 
 portfolio:
     title: "Portfolio"
