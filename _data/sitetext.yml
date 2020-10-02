@@ -21,13 +21,13 @@ Publicaciones:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Loren ipsum dolor sit amet consectetur."
     section: portfolio
     
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: "Loren ipsum timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
