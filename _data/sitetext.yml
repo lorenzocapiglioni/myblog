@@ -1,16 +1,16 @@
 header:
-    title: Bienvenidos!
-    text: Es bueno tenerte aqui
-    button: Tell me more
+    title: Bienvenidos a la web del CINTRA.
+    text: Un gusto tenerte aqui.
+    button: Dime más
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-Publicaciones:
-    title: "Publicaciones"
-    text: "Loren"
-    section: Publicaciones
+services:
+    title: "Servicios"
+    text: "Lorem ipsum"
+    section: services
     list:
       - title: "E-Commerce"
-        desc: "Soy el mejor"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -21,13 +21,13 @@ Publicaciones:
 
 portfolio:
     title: "Portfolio"
-    text: "Loren ipsum dolor sit amet consectetur."
+    text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     
 
 timeline:
     title: "About" 
-    text: "Loren ipsum timeline"
+    text: "Lorem ipsum timeline"
     section: timeline
     events:
       - title: "Our Humble Beginnings"
@@ -80,12 +80,12 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
+    title: "Nuestro maravilloso equipo"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
+      - name: "Fabian Tommasini"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
         social:
@@ -95,7 +95,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "R. Martin Guido"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -105,7 +105,7 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Fermin Scaliti"
         role: "Lead Developer"
         image: assets/img/team/3.jpg
         social:
@@ -117,8 +117,8 @@ team:
             icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contactanos"
+    text: "Llamanos al 549351111111"
     section: contact
     
 footer:
