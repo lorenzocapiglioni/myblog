@@ -54,6 +54,12 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
+      - title: "jugo la selecccion"
+        year: "2020"
+        desc: "gano 1 a 0"
+        image: assets/img/timeline/4.jpg
+        alt: 
+        align: right
     end: "Be Part <br> of Our <br> Story!"
 
 about:
